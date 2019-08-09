@@ -1,0 +1,32 @@
++--------------------+--------------------+-------------+----------+------------+-------+------+---+----------------+--------+--------+-------------+
+|           registrar|      private_agency|        state|  district|sub_district|pincode|gender|age|aadhar_generated|rejected|email_id|moblie_number|
++--------------------+--------------------+-------------+----------+------------+-------+------+---+----------------+--------+--------+-------------+
+|      Allahabad Bank|A-Onerealtors Pvt...|Uttar Pradesh| Allahabad|        Meja| 212303|     F|  7|               1|       0|       0|            1|
+|      Allahabad Bank|Asha Security Gua...|Uttar Pradesh| Sonbhadra| Robertsganj| 231213|     M|  8|               1|       0|       0|            0|
+|      Allahabad Bank|   SGS INDIA PVT LTD|Uttar Pradesh| Sultanpur|   Sultanpur| 227812|     F| 13|               1|       0|       0|            1|
+|      Allahabad Bank|Sri Ramraja Sarka...|Uttar Pradesh|    Shamli|      Shamli| 247775|     M|  6|               1|       0|       0|            1|
+|      Allahabad Bank|  Transmoovers India|Uttar Pradesh| Gorakhpur|    Sahjanwa| 273001|     M|  8|               1|       0|       0|            1|
+|      Allahabad Bank|  Transmoovers India|Uttar Pradesh|  Varanasi|      Pindra| 221101|     M| 14|               1|       0|       0|            1|
+|      Allahabad Bank|  Transmoovers India|Uttar Pradesh|  Varanasi|    Varanasi| 221001|     M|  9|               1|       0|       0|            1|
+|      Allahabad Bank|  Transmoovers India|Uttar Pradesh|  Varanasi|    Varanasi| 221002|     M|  4|               1|       0|       0|            1|
+|      Allahabad Bank|  Transmoovers India|Uttar Pradesh|  Varanasi|    Varanasi| 221002|     M| 10|               0|       1|       0|            1|
+|      Allahabad Bank|  Transmoovers India|Uttar Pradesh|  Varanasi|    Varanasi| 221002|     M| 19|               1|       0|       0|            1|
+|      Allahabad Bank|Vedavaag Systems ...|Uttar Pradesh|Bara Banki|   Nawabganj| 225301|     M|  8|               1|       0|       0|            0|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|        Assam|  Marigaon|   Bhuragaon| 782121|     M| 22|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|        Bihar| Gopalganj|  Vijayeepur| 841508|     M| 26|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|      Badami| 587114|     M| 27|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|      Badami| 587155|     F|  2|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|      Badami| 587155|     M| 67|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|      Badami| 587201|     F| 32|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|      Badami| 587203|     M| 27|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|      Badami| 587206|     F| 40|               1|       0|       0|            0|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|      Badami| 587206|     M| 28|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|      Badami| 587206|     M| 44|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|    Bagalkot| 587102|     M| 56|               0|       1|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|    Bagalkot| 587207|     M|  6|               1|       0|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|    Bagalkot| 587207|     M| 73|               0|       1|       0|            1|
+|Atalji Janasnehi ...|Atalji Janasnehi ...|    Karnataka|  Bagalkot|     Hungund| 587118|     F|  6|               1|       0|       0|            1|
++--------------------+--------------------+-------------+----------+------------+-------+------+---+----------------+--------+--------+-------------+
+only showing top 25 rows
+
+

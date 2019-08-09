@@ -1,0 +1,30 @@
+13.Create a data frame using the file and provide its summary.
+ |-- registrar: string (nullable = true)
+ |-- private_agency: string (nullable = true)
+ |-- state: string (nullable = true)
+ |-- district: string (nullable = true)
+ |-- sub_district: string (nullable = true)
+ |-- pincode: string (nullable = true)
+ |-- gender: string (nullable = true)
+ |-- age: integer (nullable = false)
+ |-- aadhar_generated: integer (nullable = false)
+ |-- rejected: integer (nullable = false)
+ |-- email_id: integer (nullable = false)
+ |-- moblie_number: integer (nullable = false)
+
+
+
+
+14.Write a command to see the correlation between “age” and “mobile_number”? (Hint: Consider the percentage of people who have provided the mobile number out of the total applicants)
++--------------------+                                                          
+|         Correlation|
++--------------------+
+|-0.11754461896889756|
++--------------------+
+
+
+15.Find the number of unique pincodes in the data?
+17756
+
+16.Find the number of Aadhaar registrations rejected in Uttar Pradesh and Maharashtra?
+7104

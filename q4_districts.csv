@@ -1,0 +1,668 @@
+Number of distinct districts = 664
+
+DISTRICT,NUMBER OF SUB DISTRICTS
+
+Adilabad,41
+Agra,6
+Ahmadnagar,14
+Ahmedabad,9
+Aizawl,5
+Ajmer,8
+Akola,7
+Alappuzha,6
+Aligarh,5
+Alirajpur,2
+Allahabad,8
+Almora,7
+Alwar,12
+Ambala,3
+Ambedkar Nagar,4
+Amethi,4
+Amravati,14
+Amreli,11
+Amritsar,4
+Amroha,3
+Anand,8
+Ananthapuramu,61
+Anantnag,4
+Angul,19
+Anjaw,2
+Anuppur,4
+Araria,9
+Ariyalur,3
+Arvalli,6
+Arwal,4
+Ashok Nagar,4
+Auraiya,2
+Aurangabad,19
+Azamgarh,6
+Bagalkot,8
+Bageshwar,4
+Baghpat,3
+Bahraich,4
+Baksa,4
+Balaghat,6
+Balangir,12
+Baleswar,17
+Ballari,7
+Ballia,6
+Balod,5
+Baloda Bazar,6
+Balrampur,7
+Banaskantha,13
+Banda,4
+Bandipore,2
+Bangalore Rural,4
+Banka,10
+Bankura,23
+Banswara,4
+Bara Banki,6
+Baramula,6
+Baran,7
+Barddhaman,35
+Bareilly,6
+Bargarh,15
+Barmer,8
+Barnala,1
+Barpeta,7
+Barwani,6
+Bastar,6
+Basti,3
+Bathinda,3
+Beed,11
+Begusarai,19
+Belagavi,12
+Bemetara,5
+Bengaluru,4
+Betul,5
+Bhadrak,11
+Bhagalpur,17
+Bhandara,7
+Bharatpur,10
+Bharuch,8
+Bhavnagar,10
+Bhilwara,12
+Bhind,7
+Bhiwani,6
+Bhojpur,14
+Bhopal,2
+Bidar,5
+Bijapur,3
+Bijnor,5
+Bikaner,8
+Bilaspur,16
+Birbhum,22
+Bishnupur,3
+Bokaro,10
+Bongaigaon,3
+Botad,4
+Boudh,6
+Budaun,4
+Budgam,2
+Bulandshahr,7
+Buldhana,13
+Bundi,5
+Burhanpur,2
+Buxar,12
+Cachar,7
+Central Delhi,3
+Chamba,12
+Chamoli,6
+Champawat,2
+Champhai,6
+Chamrajanagar,4
+Chandauli,2
+Chandel,3
+Chandigarh,1
+Chandrapur,14
+Changlang,4
+Chatra,9
+Chennai,1
+Chhatarpur,7
+Chhindwara,9
+Chhotaudepur,6
+Chikkaballapur,9
+Chikkamagaluru,7
+Chirang,3
+Chitradurga,6
+Chitrakoot,2
+Chittoor,61
+Chittorgarh,11
+Churachandpur,2
+Churu,6
+Coimbatore,10
+Cooch Behar,16
+Cuddalore,8
+Cuddapah,42
+Cuttack,18
+Dadra and Nagar Haveli,3
+Dahod,7
+Dakshin Bastar Dantewada,4
+Dakshin Dinajpur,8
+Dakshina Kannada,7
+Daman,1
+Damoh,7
+Dantewada,1
+Darbhanga,17
+Darjeeling,14
+Darrang,3
+Datia,3
+Dausa,5
+Davangere,7
+Debagarh,4
+Dehradun,5
+Deoghar,8
+Deoria,4
+Devbhumi Dwarka,4
+Dewas,6
+Dhalai,5
+Dhamtari,4
+Dhanbad,9
+Dhar,7
+Dharmapuri,5
+Dharwad,5
+Dhemaji,5
+Dhenkanal,10
+Dholpur,5
+Dhubri,8
+Dhule,4
+Dibrugarh,8
+Dimapur,6
+Dindigul,9
+Dindori,2
+Diu,1
+Doda,4
+Dumka,10
+Dungarpur,4
+Durg,6
+East Champaran,27
+East Delhi,3
+East Garo Hills,3
+East Godavari,56
+East Kameng,5
+East Khasi Hills,5
+East Siang,4
+East Sikkim,4
+East Singhbhum,12
+Ernakulam,8
+Erode,6
+Etah,2
+Etawah,5
+Faizabad,5
+Faridabad,2
+Faridkot,2
+Farrukhabad,2
+Fatehabad,3
+Fatehgarh Sahib,4
+Fatehpur,3
+Fazilka,3
+Ferozepur,3
+Firozabad,4
+Gadag,5
+Gadchiroli,10
+Gajapati,8
+Ganderbal,2
+Gandhinagar,4
+Ganganagar,9
+Ganjam,22
+Garhwa,14
+Gariyaband,6
+Gautam Buddha Nagar,4
+Gaya,26
+Ghaziabad,2
+Ghazipur,4
+Gir Somnath,6
+Giridih,13
+Goalpara,4
+Godda,8
+Golaghat,5
+Gomati,6
+Gonda,3
+Gondiya,8
+Gopalganj,14
+Gorakhpur,6
+Gumla,11
+Guna,7
+Guntur,53
+Gurdaspur,3
+Gurgaon,5
+Gwalior,3
+Hailakandi,4
+Hamirpur,15
+Hanumangarh,7
+Hapur,3
+Harda,3
+Hardoi,5
+Haridwar,3
+Hassan,10
+Hathras,4
+Haveri,10
+Hazaribagh,11
+Hingoli,5
+Hisar,4
+Hojai,2
+Hooghly,22
+Hoshangabad,7
+Hoshiarpur,4
+Howrah,27
+Hyderabad,17
+Idukki,4
+Imphal East,4
+Imphal West,4
+Indore,4
+Jabalpur,4
+Jagatsinghapur,7
+Jaintia Hills,1
+Jaipur,13
+Jaisalmer,3
+Jajapur,10
+Jalandhar,5
+Jalaun,4
+Jalgaon,15
+Jalna,8
+Jalor,7
+Jalpaiguri,13
+Jammu,4
+Jamnagar,6
+Jamtara,4
+Jamui,10
+Janjgir-champa,10
+Jashpur,8
+Jaunpur,5
+Jehanabad,8
+Jhabua,5
+Jhajjar,3
+Jhalawar,7
+Jhansi,4
+Jharsuguda,10
+Jhunjhunun,6
+Jind,4
+Jodhpur,7
+Jorhat,5
+Junagadh,11
+K.v. Rangareddy,32
+Kabeerdham,4
+Kachchh,10
+Kaimur (Bhabua),11
+Kaithal,2
+Kalaburagi,9
+Kalahandi,13
+Kamrup,10
+Kamrup Metro,4
+Kancheepuram,18
+Kandhamal,16
+Kangra,23
+Kanker,6
+Kannauj,2
+Kanniyakumari,4
+Kannur,3
+Kanpur Dehat,5
+Kanpur Nagar,3
+Kapurthala,4
+Karaikal,3
+Karauli,6
+Karbi Anglong,4
+Kargil,3
+Karimganj,5
+Karimnagar,53
+Karnal,5
+Karur,5
+Kasaragod,2
+Kasganj,2
+Kathua,5
+Katihar,16
+Katni,4
+Kaushambi,3
+Kawardha,2
+Kendrapara,7
+Kendujhar,22
+Khagaria,7
+Khammam,39
+Khandwa,3
+Khargone,8
+Kheda,10
+Kheri,5
+Khorda,17
+Khowai,4
+Khunti,7
+Kinnaur,8
+Kiphire,2
+Kishanganj,7
+Kishtwar,2
+Kodagu,4
+Koderma,6
+Kohima,3
+Kokrajhar,4
+Kolar,5
+Kolasib,3
+Kolhapur,12
+Kolkata,8
+Kollam,5
+Kondagaon,7
+Koppal,6
+Koraput,19
+Korba,5
+Koriya,6
+Kota,5
+Kottayam,4
+Kozhikode,3
+Krishna,48
+Krishnagiri,5
+Kulgam,2
+Kullu,11
+Kupwara,3
+Kurnool,48
+Kurukshetra,3
+Kurung Kumey,7
+Kushinagar,4
+Lakhimpur,7
+Lakhisarai,5
+Lakshadweep,3
+Lalitpur,2
+Latehar,6
+Latur,10
+Lawngtlai,3
+Leh,1
+Lohardaga,5
+Lohit,4
+Longding,1
+Longleng,1
+Lower Subansiri,6
+Lucknow,5
+Ludhiana,10
+Lunglei,4
+Madhepura,13
+Madhubani,20
+Madurai,7
+Mahabubnagar,60
+Maharajganj,4
+Mahasamund,5
+Mahendragarh,2
+Mahesana,10
+Mahisagar,6
+Mahoba,2
+Mainpuri,3
+Malappuram,6
+Malda,19
+Malkangiri,8
+Mamit,3
+Mandi,18
+Mandla,4
+Mandsaur,5
+Mandya,7
+Mansa,3
+Marigaon,5
+Mathura,3
+Mau,4
+Mayurbhanj,28
+Medak,44
+Meerut,3
+Mewat,4
+Mirzapur,3
+Moga,3
+Mokokchung,1
+Mon,5
+Moradabad,2
+Morbi,5
+Morena,6
+Mumbai,3
+Mumbai Suburban,3
+Mungeli,2
+Munger,9
+Murshidabad,32
+Muzaffarnagar,4
+Muzaffarpur,17
+Mysuru,9
+Nabarangapur,11
+Nadia,22
+Nagaon,10
+Nagapattinam,8
+Nagaur,9
+Nagpur,15
+Nainital,5
+Nalanda,20
+Nalbari,6
+Nalgonda,45
+Namakkal,5
+Namsai,5
+Nanded,16
+Nandurbar,6
+Narayanpur,1
+Narmada,5
+Narsinghpur,5
+Nashik,15
+Navsari,5
+Nawada,15
+Nayagarh,9
+Neemuch,3
+Nellore,40
+New Delhi,2
+Nizamabad,33
+North 24 Parganas,46
+North And Middle Andaman,2
+North Cachar Hills,2
+North Delhi,3
+North East Delhi,3
+North Goa,6
+North Sikkim,1
+North Tripura,6
+North West Delhi,3
+Nuapada,5
+Osmanabad,8
+Others,1
+Pakur,6
+Palakkad,5
+Palamu,12
+Palghar,8
+Pali,8
+Palwal,3
+Panchkula,3
+Panchmahals,7
+Panipat,3
+Panna,5
+Papum Pare,6
+Parbhani,9
+Paschim Medinipur,44
+Patan,7
+Pathanamthitta,5
+Pathankot,2
+Patiala,4
+Patna,25
+Pauri Garhwal,6
+Perambalur,4
+Peren,3
+Phek,1
+Pilibhit,3
+Pithoragarh,6
+Porbandar,3
+Prakasam,54
+Pratapgarh,8
+Puducherry,6
+Pudukkottai,11
+Pulwama,4
+Punch,3
+Pune,15
+Purba Medinipur,42
+Puri,15
+Purnia,15
+Puruliya,22
+Rae Bareli,6
+Raichur,6
+Raigarh,25
+Raipur,6
+Raisen,7
+Rajgarh,7
+Rajkot,10
+Rajnandgaon,10
+Rajouri,7
+Rajsamand,7
+Ramanagar,4
+Ramanathapuram,7
+Ramban,2
+Ramgarh,5
+Rampur,5
+Ranchi,16
+Ratlam,5
+Ratnagiri,9
+Rayagada,10
+Reasi,2
+Rewa,7
+Rewari,3
+Ri Bhoi,2
+Rohtak,2
+Rohtas,18
+Rudraprayag,2
+Rupnagar,5
+SAS Nagar (Mohali),3
+Sabarkantha,8
+Sagar,9
+Saharanpur,4
+Saharsa,10
+Sahebganj,9
+Saiha,2
+Salem,9
+Samastipur,20
+Samba,1
+Sambalpur,17
+Sambhal,3
+Sangli,10
+Sangrur,6
+Sant Kabir Nagar,3
+Sant Ravidas Nagar,2
+Saran,21
+Satara,11
+Satna,7
+Sawai Madhopur,7
+Sehore,4
+Senapati,5
+Seoni,6
+Sepahijala,5
+Seraikela-Kharsawan,8
+Serchhip,3
+Shahdol,4
+Shaheed Bhagat Singh Nagar,3
+Shahjahanpur,4
+Shajapur,8
+Shamli,2
+Sheikhpura,6
+Sheohar,4
+Sheopur,3
+Shimla,23
+Shivamogga,7
+Shivpuri,7
+Shrawasti,2
+Shupiyan,1
+Siang,5
+Sibsagar,6
+Siddharthnagar,5
+Sidhi,6
+Sikar,6
+Simdega,7
+Sindhudurg,8
+Singrauli,3
+Sirmaur,18
+Sirohi,5
+Sirsa,4
+Sitamarhi,17
+Sitapur,5
+Sivaganga,7
+Siwan,20
+Solan,13
+Solapur,11
+Sonapur,6
+Sonbhadra,3
+Sonipat,4
+Sonitpur,7
+South 24 Parganas,42
+South Andaman,1
+South Delhi,4
+South Garo Hills,2
+South Goa,8
+South Sikkim,2
+South Tripura,6
+South West Delhi,6
+South West Khasi Hills,1
+Sri Muktsar Sahib,3
+Srikakulam,37
+Srinagar,2
+Sukma,3
+Sultanpur,3
+Sundergarh,29
+Supaul,11
+Surajpur,6
+Surat,10
+Surendra Nagar,10
+Surguja,5
+Tamenglong,3
+Tapi,5
+Tarn Taran,3
+Tawang,1
+Tehri Garhwal,5
+Thane,9
+Thanjavur,8
+The Dangs,4
+The Nilgiris,6
+Theni,5
+Thiruvananthapuram,4
+Thiruvarur,7
+Thoothukkudi,9
+Thoubal,3
+Thrissur,5
+Tikamgarh,5
+Tinsukia,4
+Tirap,1
+Tiruchirappalli,9
+Tirunelveli,13
+Tiruppur,7
+Tiruvallur,10
+Tiruvannamalai,8
+Tonk,7
+Tuensang,2
+Tumakuru,11
+Udaipur,10
+Udalguri,7
+Udham Singh Nagar,5
+Udhampur,4
+Udupi,4
+Ujjain,7
+Ukhrul,5
+Umaria,1
+Una,9
+Unakoti,3
+Unnao,5
+Upper Siang,3
+Upper Subansiri,10
+Uttar Bastar Kanker,7
+Uttar Dinajpur,9
+Uttara Kannada,13
+Uttarkashi,4
+Vadodara,8
+Vaishali,16
+Valsad,6
+Varanasi,2
+Vellore,9
+Vidisha,7
+Vijayapura,5
+Villupuram,9
+Virudhunagar,8
+Visakhapatnam,41
+Vizianagaram,34
+Warangal,49
+Wardha,8
+Washim,6
+Wayanad,3
+West Champaran,18
+West Delhi,3
+West Garo Hills,8
+West Godavari,46
+West Kameng,3
+West Khasi Hills,1
+West Siang,14
+West Sikkim,2
+West Singhbhum,17
+West Tripura,7
+Wokha,3
+Yadgir,3
+Yamuna Nagar,2
+Yavatmal,16
+Zunheboto,5

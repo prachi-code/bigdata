@@ -1,0 +1,40 @@
+Number of distinct states=37
+
+STATE,NUMBER OF DISTRICTS
+Andaman and Nicobar Islands,2
+Andhra Pradesh,13
+Arunachal Pradesh,17
+Assam,28
+Bihar,38
+Chandigarh,1
+Chhattisgarh,30
+Dadra and Nagar Haveli,1
+Daman and Diu,2
+Delhi,9
+Goa,2
+Gujarat,33
+Haryana,21
+Himachal Pradesh,11
+Jammu and Kashmir,22
+Jharkhand,24
+Karnataka,30
+Kerala,14
+Lakshadweep,1
+Madhya Pradesh,50
+Maharashtra,36
+Manipur,9
+Meghalaya,8
+Mizoram,8
+Nagaland,11
+Odisha,30
+Others,1
+Puducherry,2
+Punjab,22
+Rajasthan,33
+Sikkim,4
+Tamil Nadu,32
+Telangana,10
+Tripura,8
+Uttar Pradesh,75
+Uttarakhand,13
+West Bengal,19

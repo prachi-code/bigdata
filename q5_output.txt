@@ -1,0 +1,37 @@
+Andaman and Nicobar Islands,5,2
+Andhra Pradesh,1048,3492
+Arunachal Pradesh,210,422
+Assam,302,2670
+Bihar,26957,54819
+Chandigarh,53,146
+Chhattisgarh,1346,3271
+Dadra and Nagar Haveli,44,63
+Daman and Diu,19,80
+Delhi,2649,4598
+Goa,208,591
+Gujarat,8086,16060
+Haryana,1504,3634
+Himachal Pradesh,420,863
+Jammu and Kashmir,424,907
+Jharkhand,2667,4756
+Karnataka,5822,9932
+Kerala,1980,10398
+Lakshadweep,1,4
+Madhya Pradesh,12747,24611
+Maharashtra,7092,12691
+Manipur,187,375
+Meghalaya,62,197
+Mizoram,1291,1881
+Nagaland,91,301
+Odisha,5141,6830
+Others,7,5
+Puducherry,41,44
+Punjab,1934,3954
+Rajasthan,9135,19523
+Sikkim,17,31
+Tamil Nadu,7319,13877
+Telangana,885,2883
+Tripura,132,594
+Uttar Pradesh,21623,47853
+Uttarakhand,1741,4780
+West Bengal,24823,35660

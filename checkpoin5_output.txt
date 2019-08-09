@@ -1,0 +1,49 @@
+17.The top 3 states where the percentage of Aadhaar cards being generated for males is the highest.
++--------------------+--------------------+                                     
+|               state|Percentage_of_aadhar|
++--------------------+--------------------+
+|Andaman and Nicob...|               100.0|
+|              Others|               100.0|
+|         Lakshadweep|               100.0|
++--------------------+--------------------+
+
+
+
+18.In each of these 3 states, identify the top 3 districts where the percentage of Aadhaar cards being rejected for females is the highest.
++--------------------+--------------------+----------------------+              
+|               state|            district|Percentage_of_rejected|
++--------------------+--------------------+----------------------+
+|Andaman and Nicob...|       South Andaman|                  50.0|
+|Andaman and Nicob...|North And Middle ...|                 33.33|
+|         Lakshadweep|         Lakshadweep|                  20.0|
+|              Others|              Others|                   0.0|
++--------------------+--------------------+----------------------+
+
+ 
+19.The top 3 states where the percentage of Aadhaar cards being generated for females is the highest.
++--------------------+--------------------+                                     
+|               state|Percentage_of_aadhar|
++--------------------+--------------------+
+|Dadra and Nagar H...|               100.0|
+|              Sikkim|               100.0|
+|              Others|               100.0|
++--------------------+--------------------+
+
+
+20.In each of these 3 states, identify the top 3 districts where the percentage of Aadhaar cards being rejected for males is the highest.
++--------------------+--------------------+----------------------+              
+|               state|            district|Percentage_of_rejected|
++--------------------+--------------------+----------------------+
+|              Sikkim|         East Sikkim|                  5.71|
+|Dadra and Nagar H...|Dadra and Nagar H...|                  3.45|
+|              Sikkim|         West Sikkim|                   0.0|
+|              Others|              Others|                   0.0|
+|              Sikkim|        North Sikkim|                   0.0|
+|              Sikkim|        South Sikkim|                   0.0|
++--------------------+--------------------+----------------------+
+
+
+21.The summary of the acceptance percentage of all the Aadhaar cards applications by bucketing the age group into 10 buckets.
+
+94.82
+

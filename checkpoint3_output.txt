@@ -1,0 +1,59 @@
+8.Find top 3 states generating most number of Aadhaar 
+
+Bihar,162607
+West Bengal,119901
+Uttar Pradesh,103767
+
+9.Find top 3 private agencies generating the most number of Aadhar cards?
++--------------------+----------------+                                         
+|      private_agency|Number_of_aadhar|
++--------------------+----------------+
+|Janta Silikon Con...|            1194|
+|Zephyr System Pvt...|            6946|
+|Late Smt. Nirmala...|             866|
++--------------------+----------------+
+
+10.	Find the number of residents providing email, mobile number? (Hint: consider non-zero values.)
++--------+-------------+                                                        
+|Email_Id|Mobile_Number|
++--------+-------------+
+|   19464|       464841|
++--------+-------------+
+
+11.Find top 3 districts where enrolment numbers are maximum?
++-----------------+-----------+                                                 
+|         district|Enrollments|
++-----------------+-----------+
+|North 24 Parganas|      11687|
+|           Shamli|        756|
+|         Bilaspur|        553|
++-----------------+-----------+
+
+12.Find the no. of Aadhaar cards generated in each state?
++--------------------+----------+                                               
+|               state|aadhar_gen|
++--------------------+----------+
+|         Maharashtra|     26085|
+|      Madhya Pradesh|     53276|
+|             Gujarat|     34844|
+|              Sikkim|        50|
+|          Chandigarh|       259|
+|               Bihar|    162607|
+|       Daman and Diu|       105|
+|Dadra and Nagar H...|       140|
+|      Andhra Pradesh|      5798|
+|             Tripura|       908|
+|              Odisha|     18182|
+|             Haryana|      6804|
+|   Arunachal Pradesh|       913|
+|              Others|        12|
+|             Manipur|      1323|
+|         Uttarakhand|     13227|
+|Andaman and Nicob...|         5|
+|          Puducherry|        83|
+|          Tamil Nadu|     32485|
+|         West Bengal|    119901|
++--------------------+----------+
+
+
+

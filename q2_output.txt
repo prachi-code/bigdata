@@ -1,0 +1,12 @@
+registrar           	string              	                    
+private_agency      	string              	                    
+state               	string              	                    
+district            	string              	                    
+sub_district        	string              	                    
+pincode             	string              	                    
+gender              	string              	                    
+age                 	int                 	                    
+aadhar_generated    	int                 	                    
+rejected            	int                 	                    
+email_id            	int                 	                    
+moblie_number       	int    
